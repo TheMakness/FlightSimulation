@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.1",
+	"FriendlyName": "Json Serialization",
+	"Description": "Adds a function Object to Json that converts any UObject into Json",
+	"Category": "Serialization",
+	"CreatedBy": "EPICGameGuy",
+	"CreatedByURL": "https://github.com/nicholas477",
+	"DocsURL": "https://github.com/nicholas477/JsonSerialization",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "JsonSerialization",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"StructUtils"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "StructUtils",
+			"Enabled": true
+		}
+	]
+}
