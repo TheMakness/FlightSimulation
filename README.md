@@ -1,4 +1,4 @@
-# Master's Thesis – Impact of Assistance Systems in Flight Simulation
+# Master's Thesis – Impact of Assistance Systems in Flight Simulation - Memoire_LallementDamian.pdf
 
 This repository contains my **Master's thesis** on the impact of assistance systems in a flight simulation game for novice players.  
 
